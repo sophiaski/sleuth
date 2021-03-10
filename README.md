@@ -5,6 +5,7 @@ Creating this repo so I'm committed to completing it ASAP. ;)
 
 What's coming soon:
 - Annotations! So many more annotations...
+- Notes on philanthropic capacity ratings
 - List of more free (and valuable) sources consulted in individual research
 - Detailed overview of individual search terms and methodology
 - How to find your prospect on social media
