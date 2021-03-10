@@ -1,2 +1,2 @@
-# sleuth
-Repo for all resources to aid in your wealth sleuthing adventures!
+# My guide to nonprofit wealth screening
+Repo for all resources to aid in your sleuthing adventures!
