@@ -11,7 +11,7 @@ What's coming soon:
 - How to find your prospect on social media
 - Common data aggregators to aid in search (and how you can pitch them to your manager)
 
-In the works:
+What's next:
 - Paid screening guide
 
 To be determined:
