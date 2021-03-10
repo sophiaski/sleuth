@@ -1,2 +1,2 @@
-# My guide to nonprofit wealth screening
+# Guide to nonprofit wealth screening
 Repo for all resources to aid in your sleuthing adventures!
