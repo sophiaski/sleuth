@@ -2,7 +2,7 @@
 ## Repo for all resources to aid in your sleuthing adventures!
 
 What's coming ASAP:
-- Annotations! So many more annotations...
+- Annotations!
 - Notes on philanthropic capacity ratings
 - List of more free (and valuable) sources consulted in individual research
 - Detailed overview of individual search terms and methodology
